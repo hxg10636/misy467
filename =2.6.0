@@ -1,0 +1,151 @@
+Collecting pandas-profiling
+  Downloading pandas_profiling-2.6.0-py2.py3-none-any.whl (241 kB)
+Collecting phik>=0.9.10
+  Downloading phik-0.9.11-py3-none-any.whl (609 kB)
+Requirement already satisfied: numpy>=1.16.0 in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from pandas-profiling) (1.18.3)
+Collecting missingno>=0.4.2
+  Downloading missingno-0.4.2-py3-none-any.whl (9.7 kB)
+Requirement already satisfied: pandas>=0.25.3 in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from pandas-profiling) (1.0.3)
+Requirement already satisfied: scipy>=1.4.1 in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from pandas-profiling) (1.4.1)
+Collecting jinja2>=2.11.1
+  Downloading Jinja2-2.11.2-py2.py3-none-any.whl (125 kB)
+Collecting matplotlib>=3.2.0
+  Downloading matplotlib-3.2.1-cp38-cp38-macosx_10_9_x86_64.whl (12.4 MB)
+Collecting htmlmin>=0.1.12
+  Downloading htmlmin-0.1.12.tar.gz (19 kB)
+Collecting tqdm>=4.43.0
+  Downloading tqdm-4.46.0-py2.py3-none-any.whl (63 kB)
+Collecting visions[type_image_path]>=0.4.1
+  Downloading visions-0.4.1-py3-none-any.whl (58 kB)
+Collecting confuse>=1.0.0
+  Downloading confuse-1.1.0.tar.gz (32 kB)
+Collecting astropy>=4.0
+  Downloading astropy-4.0.1.post1-cp38-cp38-macosx_10_9_x86_64.whl (6.5 MB)
+Collecting ipywidgets>=7.5.1
+  Using cached ipywidgets-7.5.1-py2.py3-none-any.whl (121 kB)
+Requirement already satisfied: statsmodels>=0.11.1 in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from pandas-profiling) (0.11.1)
+Collecting requests>=2.23.0
+  Downloading requests-2.23.0-py2.py3-none-any.whl (58 kB)
+Collecting tangled-up-in-unicode>=0.0.4
+  Downloading tangled_up_in_unicode-0.0.4.tar.gz (1.5 MB)
+Collecting numba>=0.38.1
+  Downloading numba-0.49.0-cp38-cp38-macosx_10_14_x86_64.whl (2.1 MB)
+Collecting joblib>=0.14.1
+  Using cached joblib-0.14.1-py2.py3-none-any.whl (294 kB)
+Collecting seaborn
+  Downloading seaborn-0.10.1-py3-none-any.whl (215 kB)
+Requirement already satisfied: pytz>=2017.2 in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from pandas>=0.25.3->pandas-profiling) (2019.3)
+Requirement already satisfied: python-dateutil>=2.6.1 in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from pandas>=0.25.3->pandas-profiling) (2.8.1)
+Collecting MarkupSafe>=0.23
+  Using cached MarkupSafe-1.1.1-cp38-cp38-macosx_10_9_x86_64.whl (16 kB)
+Collecting pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1
+  Using cached pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+Collecting cycler>=0.10
+  Using cached cycler-0.10.0-py2.py3-none-any.whl (6.5 kB)
+Collecting kiwisolver>=1.0.1
+  Using cached kiwisolver-1.2.0-cp38-cp38-macosx_10_9_x86_64.whl (60 kB)
+Collecting networkx>=2.4
+  Downloading networkx-2.4-py3-none-any.whl (1.6 MB)
+Collecting attrs>=19.3.0
+  Using cached attrs-19.3.0-py2.py3-none-any.whl (39 kB)
+Requirement already satisfied: Pillow; extra == "type_image_path" in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from visions[type_image_path]>=0.4.1->pandas-profiling) (7.1.1)
+Collecting imagehash; extra == "type_image_path"
+  Downloading ImageHash-4.1.0.tar.gz (291 kB)
+Collecting pyyaml
+  Downloading PyYAML-5.3.1.tar.gz (269 kB)
+Collecting ipython>=4.0.0; python_version >= "3.3"
+  Downloading ipython-7.14.0-py3-none-any.whl (782 kB)
+Collecting nbformat>=4.2.0
+  Downloading nbformat-5.0.6-py3-none-any.whl (170 kB)
+Collecting widgetsnbextension~=3.5.0
+  Using cached widgetsnbextension-3.5.1-py2.py3-none-any.whl (2.2 MB)
+Collecting traitlets>=4.3.1
+  Using cached traitlets-4.3.3-py2.py3-none-any.whl (75 kB)
+Collecting ipykernel>=4.5.1
+  Downloading ipykernel-5.2.1-py3-none-any.whl (118 kB)
+Requirement already satisfied: patsy>=0.5 in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from statsmodels>=0.11.1->pandas-profiling) (0.5.1)
+Collecting idna<3,>=2.5
+  Downloading idna-2.9-py2.py3-none-any.whl (58 kB)
+Collecting certifi>=2017.4.17
+  Downloading certifi-2020.4.5.1-py2.py3-none-any.whl (157 kB)
+Collecting urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1
+  Downloading urllib3-1.25.9-py2.py3-none-any.whl (126 kB)
+Collecting chardet<4,>=3.0.2
+  Downloading chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+Requirement already satisfied: setuptools in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from numba>=0.38.1->phik>=0.9.10->pandas-profiling) (41.2.0)
+Collecting llvmlite<=0.33.0.dev0,>=0.31.0.dev0
+  Downloading llvmlite-0.32.0-cp38-cp38-macosx_10_9_x86_64.whl (15.9 MB)
+Requirement already satisfied: six>=1.5 in /Users/dennisxghuang/Library/Python/3.8/lib/python/site-packages (from python-dateutil>=2.6.1->pandas>=0.25.3->pandas-profiling) (1.14.0)
+Collecting decorator>=4.3.0
+  Using cached decorator-4.4.2-py2.py3-none-any.whl (9.2 kB)
+Collecting PyWavelets
+  Downloading PyWavelets-1.1.1-cp38-cp38-macosx_10_9_x86_64.whl (4.3 MB)
+Collecting pickleshare
+  Using cached pickleshare-0.7.5-py2.py3-none-any.whl (6.9 kB)
+Collecting appnope; sys_platform == "darwin"
+  Using cached appnope-0.1.0-py2.py3-none-any.whl (4.0 kB)
+Collecting prompt-toolkit!=3.0.0,!=3.0.1,<3.1.0,>=2.0.0
+  Using cached prompt_toolkit-3.0.5-py3-none-any.whl (351 kB)
+Collecting backcall
+  Using cached backcall-0.1.0.tar.gz (9.7 kB)
+Collecting pexpect; sys_platform != "win32"
+  Using cached pexpect-4.8.0-py2.py3-none-any.whl (59 kB)
+Collecting pygments
+  Using cached Pygments-2.6.1-py3-none-any.whl (914 kB)
+Collecting jedi>=0.10
+  Downloading jedi-0.17.0-py2.py3-none-any.whl (1.1 MB)
+Collecting jupyter-core
+  Using cached jupyter_core-4.6.3-py2.py3-none-any.whl (83 kB)
+Collecting ipython-genutils
+  Using cached ipython_genutils-0.2.0-py2.py3-none-any.whl (26 kB)
+Collecting jsonschema!=2.5.0,>=2.4
+  Using cached jsonschema-3.2.0-py2.py3-none-any.whl (56 kB)
+Collecting notebook>=4.4.1
+  Using cached notebook-6.0.3-py3-none-any.whl (9.7 MB)
+Collecting jupyter-client
+  Downloading jupyter_client-6.1.3-py3-none-any.whl (106 kB)
+Collecting tornado>=4.2
+  Using cached tornado-6.0.4.tar.gz (496 kB)
+Collecting wcwidth
+  Using cached wcwidth-0.1.9-py2.py3-none-any.whl (19 kB)
+Collecting ptyprocess>=0.5
+  Using cached ptyprocess-0.6.0-py2.py3-none-any.whl (39 kB)
+Collecting parso>=0.7.0
+  Downloading parso-0.7.0-py2.py3-none-any.whl (100 kB)
+Collecting pyrsistent>=0.14.0
+  Using cached pyrsistent-0.16.0.tar.gz (108 kB)
+Collecting prometheus-client
+  Using cached prometheus_client-0.7.1.tar.gz (38 kB)
+Collecting pyzmq>=17
+  Using cached pyzmq-19.0.0-cp38-cp38-macosx_10_9_x86_64.whl (821 kB)
+Collecting terminado>=0.8.1
+  Using cached terminado-0.8.3-py2.py3-none-any.whl (33 kB)
+Collecting Send2Trash
+  Using cached Send2Trash-1.5.0-py3-none-any.whl (12 kB)
+Collecting nbconvert
+  Using cached nbconvert-5.6.1-py2.py3-none-any.whl (455 kB)
+Collecting entrypoints>=0.2.2
+  Using cached entrypoints-0.3-py2.py3-none-any.whl (11 kB)
+Collecting defusedxml
+  Using cached defusedxml-0.6.0-py2.py3-none-any.whl (23 kB)
+Collecting bleach
+  Downloading bleach-3.1.5-py2.py3-none-any.whl (151 kB)
+Collecting testpath
+  Using cached testpath-0.4.4-py2.py3-none-any.whl (163 kB)
+Collecting mistune<2,>=0.8.1
+  Using cached mistune-0.8.4-py2.py3-none-any.whl (16 kB)
+Collecting pandocfilters>=1.4.1
+  Using cached pandocfilters-1.4.2.tar.gz (14 kB)
+Collecting webencodings
+  Using cached webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Collecting packaging
+  Downloading packaging-20.3-py2.py3-none-any.whl (37 kB)
+Installing collected packages: pyparsing, cycler, kiwisolver, matplotlib, llvmlite, numba, joblib, phik, seaborn, missingno, MarkupSafe, jinja2, htmlmin, tqdm, decorator, networkx, attrs, tangled-up-in-unicode, PyWavelets, imagehash, visions, pyyaml, confuse, astropy, pickleshare, ipython-genutils, traitlets, appnope, wcwidth, prompt-toolkit, backcall, ptyprocess, pexpect, pygments, parso, jedi, ipython, jupyter-core, pyrsistent, jsonschema, nbformat, pyzmq, tornado, jupyter-client, prometheus-client, terminado, ipykernel, Send2Trash, entrypoints, defusedxml, webencodings, packaging, bleach, testpath, mistune, pandocfilters, nbconvert, notebook, widgetsnbextension, ipywidgets, idna, certifi, urllib3, chardet, requests, pandas-profiling
+    Running setup.py install for htmlmin: started
+    Running setup.py install for htmlmin: finished with status 'done'
+    Running setup.py install for tangled-up-in-unicode: started
+    Running setup.py install for tangled-up-in-unicode: finished with status 'done'
+    Running setup.py install for imagehash: started
+    Running setup.py install for imagehash: finished with status 'done'
+    Running setup.py install for pyyaml: started
+    Running setup.py install for pyyaml: finished with status 'canceled'
